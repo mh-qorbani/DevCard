@@ -38,3 +38,4 @@ E:\Programming\Project - Language\ASP.Net Core\DevCard\DevCaed-MVC\obj\Debug\net
 E:\Programming\Project - Language\ASP.Net Core\DevCard\DevCaed-MVC\obj\Debug\net5.0\DevCaed-MVC.pdb
 E:\Programming\Project - Language\ASP.Net Core\DevCard\DevCaed-MVC\obj\Debug\net5.0\DevCaed-MVC.genruntimeconfig.cache
 E:\Programming\Project - Language\ASP.Net Core\DevCard\DevCaed-MVC\obj\Debug\net5.0\DevCaed-MVC.csproj.CopyComplete
+E:\Programming\Project - Language\ASP.Net Core\DevCard\DevCaed-MVC\obj\Debug\net5.0\Razor\Views\Home\login.cshtml.g.cs
